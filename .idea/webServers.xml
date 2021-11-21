@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ff5c8dce-e0e1-4149-99d5-893b23cac140" name="1080Ti" url="http://s4.z100.vip">
+        <fileTransfer host="s4.z100.vip" port="30493" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="30493" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
