@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="s4.z100.vip" id="53cd99d5-0b34-4d57-b327-bb4d83b3b3cc" port="30493" customName="1080Ti" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="1080Ti" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="s4.z100.vip" id="d4814478-a692-4ca8-b95d-0660d1a15f6d" port="30493" customName="1080Ti" nameFormat="CUSTOM">
+        <option name="customName" value="1080Ti" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
